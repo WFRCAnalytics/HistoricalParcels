@@ -340,6 +340,8 @@ Much of the LIR data was kept intact through the conversion process, thus preser
 ## Conclusion:
 The goal of this project was to create a rough outline of where redevelopment occurred in Salt Lake County. Because of the inherent messiness of urban change (and of the data), this information should not be taken as definitive for any individual cell, but rather as a starting point which can be compared to model outcomes in aggregate or used qualitatively to discuss patterns of development.
 
+To that end, I hope you found the information in this post useful, and I look forward to seeing further developments in this dataset, both in terms of calculated data and in terms of changes as the Wasatch Front continues to grow. 
+
 [^1]:  Prior to the next step, the grid was re-projected to NAD83 UTM 12N to match the LIR Parcels.
 
 [^2]: I also compared the build dates directly, but found that, for many cells, a slightly different build date before 2007 was present, either as a result of updated information in the LIR dataset, or of different spatial joins. I found that more reliable information could be found by simply identifying what cells had the largest overlap with a parcel built after the comparison year
